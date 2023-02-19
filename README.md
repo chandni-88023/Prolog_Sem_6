@@ -1,1 +1,1 @@
-# Prolog_Problems_Sem_6
+# Prolog_Sem_6
